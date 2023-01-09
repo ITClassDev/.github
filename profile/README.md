@@ -4,6 +4,7 @@ This is a repository of ShTP platform.
 1. [Backend](https://github.com/ITClassDev/Backend)
 2. [Frontend](https://github.com/ITClassDev/Frontend)
 3. [Checker](https://github.com/ITClassDev/Checker)
+4. [Mobile](https://github.com/ITClassDev/Mobile)
 
 ## Our stack
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
