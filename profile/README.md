@@ -4,7 +4,9 @@ This is a repository of ShTP platform.
 1. [Backend](https://github.com/ITClassDev/Backend)
 2. [Frontend](https://github.com/ITClassDev/Frontend)
 3. [Checker](https://github.com/ITClassDev/Checker)
-
+## Deployment
+We have a developer-friendly docs, how to run Backend and Frontend parts separately. </br>
+How to connect both parts and get a single, working site is written [here](https://github.com/ITClassDev/.github/blob/main/profile/DEPLOY.md)
 ## Our stack
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
