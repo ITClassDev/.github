@@ -22,3 +22,5 @@ How to connect both parts and get a single, working site is written [here](https
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/docker.png" alt="css3" width="40" height="40"/> </a>
+
+https://docs.google.com/presentation/d/1tFlvx84kcuWlv0KH9A6Zq-E2gFG0T6yKqHKYZAr6P1w/edit#slide=id.g1d4e26462a1_0_19
