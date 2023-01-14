@@ -5,6 +5,10 @@ This is a repository of ShTP platform.
 2. [Frontend](https://github.com/ITClassDev/Frontend)
 3. [Checker](https://github.com/ITClassDev/Checker)
 4. [Mobile](https://github.com/ITClassDev/Mobile)
+## PolyHack Develop
+- Implement OAuth
+- Integrate Docker based checker
+Presentation: https://docs.google.com/presentation/d/1tFlvx84kcuWlv0KH9A6Zq-E2gFG0T6yKqHKYZAr6P1w/edit?usp=sharing
 
 ## Deployment
 We have a developer-friendly docs, how to run Backend and Frontend parts separately. </br>
@@ -23,4 +27,3 @@ How to connect both parts and get a single, working site is written [here](https
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/docker.png" alt="css3" width="40" height="40"/> </a>
 
-https://docs.google.com/presentation/d/1tFlvx84kcuWlv0KH9A6Zq-E2gFG0T6yKqHKYZAr6P1w/edit?usp=sharing
