@@ -5,6 +5,7 @@ This is a repository of ShTP platform.
 2. [Frontend](https://github.com/ITClassDev/Frontend)
 3. [Checker](https://github.com/ITClassDev/Checker)
 4. [Mobile](https://github.com/ITClassDev/Mobile)
+5. [Docker API library](https://github.com/ret7020/DockerApiClient)
 
 ## Deployment
 We have a developer-friendly docs, how to run Backend and Frontend parts separately. </br>

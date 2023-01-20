@@ -1,2 +1,7 @@
 # How to deploy
-No documentation available for now. Please, wait some time.
+### Global steps
+- Setup Backend
+- Setup Frontend
+- Setup Mobile client
+
+You can find docs, how to run backend []here
