@@ -7,11 +7,17 @@ This is a repository of ShTP platform.
 4. [Mobile](https://github.com/ITClassDev/Mobile)
 5. [Docker API library](https://github.com/ret7020/DockerApiClient)
 
+## PolyHack Dev log
+- Implement OAuth
+- Integrate Docker based checker
+
+Presentation: https://docs.google.com/presentation/d/1tFlvx84kcuWlv0KH9A6Zq-E2gFG0T6yKqHKYZAr6P1w/edit?usp=sharing
+
 ## Deployment
 We have a developer-friendly docs, how to run Backend and Frontend parts separately. </br>
 How to connect both parts and get a single, working site is written [here](https://github.com/ITClassDev/.github/blob/main/profile/DEPLOY.md)
 
-## Our stack
+## Tools and Stack we use
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
