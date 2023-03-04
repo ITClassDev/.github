@@ -14,6 +14,7 @@ This is a repository of ShTP platform.
 Presentation: https://docs.google.com/presentation/d/1tFlvx84kcuWlv0KH9A6Zq-E2gFG0T6yKqHKYZAr6P1w/edit?usp=sharing
 
 ## Deployment
+We recomend to use our docker compose wrapper, to start Frontend and Backend. More info you can find [here](https://github.com/ITClassDev/Docker)
 We have a developer-friendly docs, how to run Backend and Frontend parts separately. </br>
 How to connect both parts and get a single, working site is written [here](https://github.com/ITClassDev/.github/blob/main/profile/DEPLOY.md)
 
