@@ -1,5 +1,7 @@
 # Hello, world!
 This is a repository of ShTP platform.
+Project documentation: https://docs.google.com/document/d/1qn1-FzwdWhNQVSj9ZEPzUVbiCAWoYVId/edit?usp=sharing&ouid=108670228034019290760&rtpof=true&sd=true
+
 ## Fast start
 1. [Backend](https://github.com/ITClassDev/Backend)
 2. [Frontend](https://github.com/ITClassDev/Frontend)
@@ -10,8 +12,6 @@ This is a repository of ShTP platform.
 ## PolyHack Dev log
 - Implement OAuth
 - Integrate Docker based checker
-
-Project documentation: https://docs.google.com/document/d/1qn1-FzwdWhNQVSj9ZEPzUVbiCAWoYVId/edit?usp=sharing&ouid=108670228034019290760&rtpof=true&sd=true
 
 Presentation: https://docs.google.com/presentation/d/1tFlvx84kcuWlv0KH9A6Zq-E2gFG0T6yKqHKYZAr6P1w/edit?usp=sharing
 
