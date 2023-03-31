@@ -1,5 +1,6 @@
 # Hello, world!
 This is a repository of ShTP platform.
+
 Project documentation: https://docs.google.com/document/d/1qn1-FzwdWhNQVSj9ZEPzUVbiCAWoYVId/edit?usp=sharing&ouid=108670228034019290760&rtpof=true&sd=true
 
 ## Fast start
