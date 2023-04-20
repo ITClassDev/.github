@@ -1,6 +1,7 @@
 # Hello, world!
 This is a repository of ShTP platform.
-
+Deployed url: [shtp.1561.ru](https://shtp.1561.ru)
+Monitor url: [uptimerobot](https://stats.uptimerobot.com/DVn8xCo4W7)
 Project documentation: https://docs.google.com/document/d/1H-qo_fqE_v5EBwhlEm3iH7VjwxLU7R7-/edit?usp=sharing&ouid=108670228034019290760&rtpof=true&sd=true
 
 ## Fast start
