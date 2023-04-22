@@ -14,17 +14,17 @@ Project documentation: https://docs.google.com/document/d/1H-qo_fqE_v5EBwhlEm3iH
 4. [Mobile](https://github.com/ITClassDev/Mobile)
 5. [Docker API library](https://github.com/ret7020/DockerApiClient)
 
+## 'Engineers of the Future' conference
+[Presentation](https://1drv.ms/p/s!AvkzsMshvWpmhizkS2Bsz6WB7W8j?e=cJtUAk) 
+
 ## PolyHack Dev log
 - Implement OAuth
 - Integrate Docker based checker
 
-Presentation: https://docs.google.com/presentation/d/1tFlvx84kcuWlv0KH9A6Zq-E2gFG0T6yKqHKYZAr6P1w/edit?usp=sharing
+[Presentation](https://docs.google.com/presentation/d/1tFlvx84kcuWlv0KH9A6Zq-E2gFG0T6yKqHKYZAr6P1w/edit?usp=sharing)
 
-## Deployment
-We recomend to use our docker compose wrapper, to start Frontend and Backend. More info you can find [here](https://github.com/ITClassDev/Docker)
-We have a developer-friendly docs, how to run Backend and Frontend parts separately. </br>
-How to connect both parts and get a single, working site is written [here](https://github.com/ITClassDev/.github/blob/main/profile/DEPLOY.md)
-
+## How to run
+To deploy ShTP refer to [Docker compose config repo](https://github.com/ITClassDev/Docker)
 ## Tools and Stack we use
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
