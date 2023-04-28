@@ -7,6 +7,8 @@ Monitor url: [uptimerobot](https://stats.uptimerobot.com/DVn8xCo4W7)
 
 Project documentation: https://docs.google.com/document/d/1H-qo_fqE_v5EBwhlEm3iH7VjwxLU7R7-/edit?usp=sharing&ouid=108670228034019290760&rtpof=true&sd=true
 
+Trello board(in progress): [public](https://trello.com/b/yKGRWXAU/shtp)
+
 ## Fast start
 1. [Backend](https://github.com/ITClassDev/Backend)
 2. [Frontend](https://github.com/ITClassDev/Frontend)
