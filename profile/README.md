@@ -16,7 +16,8 @@ We manage our develop with Github Projects (moved from trello)
 5. [Docker API library](https://github.com/ret7020/DockerApiClient)
 
 ## ShTP Versions (new to old)
-* (Planned) ShTP 2.0.1. Enigma - stable tested release
+* (Planned) ShTP 2.1.0 Coinify - first comercial ShTP edition; close source
+* (Planned) ShTP 2.0.1. Enigma - stable tested release; latest opensource
 * __(Current) ShTP 2.0.0 Enigma - latest dev release__
 * ShTP 1.00 Legacy - old version of ShTP ecosystem(rest api, web frontend, mobile frontend)
 
@@ -43,3 +44,4 @@ To deploy ShTP refer to [Docker compose config repo](https://github.com/ITClassD
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/docker.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://ant.design" target="_blank" rel="noreferrer"> <img src="https://github.com/ITClassDev/.github/assets/55328925/635fdee5-8951-4329-a6ae-85f3948b2756" alt="antd" width="40" height="40"/> </a>
