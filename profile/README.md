@@ -15,6 +15,11 @@ We manage our develop with Github Projects (moved from trello)
 4. [Mobile](https://github.com/ITClassDev/Mobile)
 5. [Docker API library](https://github.com/ret7020/DockerApiClient)
 
+## ShTP Versions (new to old)
+* (Planned) ShTP 2.0.1. Enigma - stable tested release
+* __(Current) ShTP 2.0.0 Enigma - latest dev release__
+* ShTP 1.00 Legacy - old version of ShTP ecosystem(rest api, web frontend, mobile frontend)
+
 ## 'Engineers of the Future' conference
 [Presentation](https://1drv.ms/p/s!AvkzsMshvWpmhizkS2Bsz6WB7W8j?e=cJtUAk) 
 
