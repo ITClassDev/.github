@@ -21,7 +21,7 @@ We manage our develop with Github Projects (moved from trello)
 * __(Current) ShTP 2.0.0 Enigma - latest dev release__
 * ShTP 1.00 Legacy - old version of ShTP ecosystem(rest api, web frontend, mobile frontend)
 
-## 'Engineers of the Future' conference
+## 'Engineers of the Future' conference // For reviews
 [Presentation](https://1drv.ms/p/c/50b0ae3840c075e0/EfLJmY2PQOdDjkdvAI7XPzsBNgDMo1HhM5x4KN64td1Qhw?e=LYRFNF) 
 
 ## PolyHack Dev log
